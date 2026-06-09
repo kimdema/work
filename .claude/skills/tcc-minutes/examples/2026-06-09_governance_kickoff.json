@@ -1,0 +1,161 @@
+{
+  "title": "TRUSTEE COMMITTEE MEETING — MINUTES OF MEETING",
+  "subtitle": "Straight Bat Private Equity Pty Ltd | 9 June 2026",
+  "subheading": "Governance Review — Implementation Kick-off",
+  "status": "CONFIDENTIAL — DRAFT",
+  "details": [
+    ["Entity", "Straight Bat Private Equity Pty Ltd"],
+    ["Meeting Type", "Trustee Committee Meeting — Governance Review Implementation Kick-off"],
+    ["Date", "9 June 2026"],
+    ["Time", "11:00 AM – 12:00 PM"],
+    ["Location", "Matthews Meeting Room, Gate 8, 88 Jolimont St, East Melbourne VIC 3002 & TEAMS"],
+    ["Chair", "Stephen Gledden (Responsible Manager)"],
+    ["Minutes Prepared By", "Kim Dema (Company Secretary)"],
+    ["Date of Confirmation", "[To be completed upon sign-off]"]
+  ],
+  "attendees": [
+    {"name": "Stephen Gledden", "role": "Responsible Manager (RM) (Chair for this session)", "status": "Present"},
+    {"name": "Rob Nicholls", "role": "Responsible Manager (RM)", "status": "Present"},
+    {"name": "Kim Dema", "role": "Financial Responsible Manager (FRP) / Company Secretary / Fund CFO", "status": "Present"},
+    {"name": "Becky Barr", "role": "Compliance Manager / Fund Operations Manager", "status": "Present (via Teams)"}
+  ],
+  "sections": [
+    {
+      "heading": "1. Opening & Purpose",
+      "presenter": "Chair: Stephen Gledden | Time allocated: 5 minutes",
+      "blocks": [
+        {"type": "sub", "text": "1.1 Purpose of Session"},
+        {"type": "para", "text": "The Chair opened the meeting and set out the purpose: to walk through the Governance Framework document section by section, agree the approach to each, and confirm accountabilities for the implementation work arising from the governance review. It was noted that the framework comprises six themes — independence, conflict management, documentation standardisation, trustee structure clarification, regulatory alignment, and governance culture."},
+        {"type": "sub", "text": "1.2 Conflicts of Interest"},
+        {"type": "para", "text": "Consistent with the practice to be formalised (see section 6), the standing conflicts of the senior individuals were acknowledged as a recurring agenda item. No new transactional conflicts were declared in respect of the matters discussed."}
+      ]
+    },
+    {
+      "heading": "2. Governance Framework — Entity Structure & Delegation Model",
+      "presenter": "Presenter: Stephen Gledden | Time allocated: 15 minutes",
+      "blocks": [
+        {"type": "sub", "text": "2.1 Core Principle — Delegation of Authority"},
+        {"type": "para", "text": "The Committee discussed and endorsed the foundational principle of the framework: the board of Straight Bat Private Equity Holdings Pty Ltd holds ultimate decision-making authority for the funds management business and delegates that authority, for two distinct purposes, to:"},
+        {"type": "bullet", "text": "The Investment Manager (Straight Bat Private Equity Pty Ltd) — operates under delegation to run the funds and reports to the board on business performance and to the Trustee on fund performance (NAV, unit price, distributions); and"},
+        {"type": "bullet", "text": "The Corporate Trustee — a protected corporate entity that sets policy, acts strictly in investors' interests, and delegates execution to the Investment Manager under an Investment Management Agreement (IMA), while providing independent oversight including periodic third-party review."},
+        {"type": "para", "text": "The Committee agreed that applying this distinction consistently across all governance documents is expected to resolve a significant number of the inconsistencies identified in the review."},
+        {"type": "sub", "text": "2.2 Standardisation of Language"},
+        {"type": "para", "text": "It was agreed that documents should standardise terminology: \"Board\" refers to Holdings; \"Trustee\" refers to the corporate trustee; \"Investment Manager\" refers to Straight Bat Private Equity Pty Ltd. The Committee noted that this precision will reassure stakeholders (including Farrel, the broader team, and prospective institutional investors) who are less comfortable with functions being \"blended into one pot\"."},
+        {"type": "resolution", "text": "The Committee endorsed the entity/delegation model and the standardised terminology as the basis for all governance documentation going forward."}
+      ]
+    },
+    {
+      "heading": "3. Independent Director Appointment — Trustee Board",
+      "presenter": "Presenter: Stephen Gledden | Time allocated: 15 minutes",
+      "blocks": [
+        {"type": "sub", "text": "3.1 Candidate Discussion"},
+        {"type": "para", "text": "The Committee discussed the appointment of an independent Non-Executive Director (NED) to the Trustee board. Meetings are scheduled this week (Thursday) with Tony McVeigh (2:00 PM) and Randall (1:00 PM / 9:00 AM). The Chair indicated Tony McVeigh is his preferred candidate — a recently retired Managing Partner of Hall & Wilcox (retiring 30 June), with 20+ years' experience, recommended by Andrew O'Brien and known to Farrel."},
+        {"type": "sub", "text": "3.2 Role Expectations"},
+        {"type": "para", "text": "Following discussion (Kim Dema and Becky Barr contributing), the Committee clarified that the role is intended to be more active than a typical NED — scheduled quarterly board meetings plus provision for ad-hoc virtual meetings to sign off proper instructions (e.g. shareholder loans for portfolio companies). Key attributes sought:"},
+        {"type": "bullet", "text": "Independence from the funds, making independent decisions in investors' interests;"},
+        {"type": "bullet", "text": "A legal background (essential for ASIC / Corporations Act compliance), given Rob Nicholls and Stephen Gledden are not deeply technical in this area;"},
+        {"type": "bullet", "text": "Knowledge of the Investment Manager's operations and the portfolio companies (attends events, reads scorecards, monitors businesses);"},
+        {"type": "bullet", "text": "Collaborative and constructive in challenge."},
+        {"type": "sub", "text": "3.3 Independence Consideration"},
+        {"type": "para", "text": "A potential concern was noted that Tony McVeigh is from the same firm (Hall & Wilcox) as the Committee's adviser, Vanessa, which may limit independent challenge of her advice. The Committee confirmed comfort in Vanessa's competence as adviser, while agreeing to obtain a point of comparison (Randall) and to keep the NED and adviser roles distinct — the NED is not an adviser substitute. Two candidates previously suggested were ruled out: \"Annette\" (conflicted — EY engaged as tax adviser) and \"David\"."},
+        {"type": "sub", "text": "3.4 Board Process — Pre-Meeting Checklist"},
+        {"type": "para", "text": "The Committee agreed (Stephen Gledden / Kim Dema) that a standardised checklist must precede any Trustee board sign-off — proper instructions, related-party check, confirmation that supporting documents (e.g. loan documentation) are correctly executed — and that nothing is escalated to the NED / no board meeting is called until the checklist is complete. This checklist is to be written into the relevant charter."},
+        {"type": "resolution", "text": "Rob Nicholls to lead the search for an independent NED to the Trustee board. A standardised pre-meeting checklist for Trustee board sign-offs to be developed and incorporated into the charter."}
+      ]
+    },
+    {
+      "heading": "4. Roles & Responsibilities — Segregation of Duties",
+      "presenter": "Presenter: Stephen Gledden / Kim Dema | Time allocated: 15 minutes",
+      "blocks": [
+        {"type": "sub", "text": "4.1 Moving Away from \"15 Hats\""},
+        {"type": "para", "text": "The Committee agreed to move from an undefined \"15 hats\" approach to precise role definitions, eliminating ambiguity (\"grey\") wherever possible by clarifying which activities relate to which entity."},
+        {"type": "sub", "text": "4.2 Becky Barr — Roles"},
+        {"type": "bullet", "text": "Fund Operations Manager (for the Investment Manager) — administering Atomic, registry, distributions, KYC/AML; with inherent compliance requirements embedded in fund operations; and"},
+        {"type": "bullet", "text": "Compliance Officer — managing the Trustee Compliance Committee and undertaking the work required to maintain the AFSL (reporting, training, etc.), under delegation from the Trustee."},
+        {"type": "para", "text": "It was acknowledged that compliance within fund operations is an inherent function (Elwood, as an operator, must operate the fund compliantly), and is distinct from the separate Trustee compliance function."},
+        {"type": "sub", "text": "4.3 Kim Dema — Roles"},
+        {"type": "bullet", "text": "Company Secretary for board meetings (preparing agenda and papers);"},
+        {"type": "bullet", "text": "Compliance for the Investment Manager and Holding Company (risk management / governance, ASIC / Corporations Act matters for the trustee company not related to the AFSL);"},
+        {"type": "bullet", "text": "Cross-training with Becky Barr and developing the broader team (Elwood) for redundancy."},
+        {"type": "sub", "text": "4.4 Key Person Risk vs. Segregation"},
+        {"type": "para", "text": "Kim Dema challenged a strict \"complete segregation on paper\" position on the basis that it could create key-person risk, noting the deliberate effort to share knowledge (Elwood, Mark, Al) to protect the company. The Committee reconciled this by confirming the operating-model distinction between accountability (a named individual) and responsibility (the team). Documentation should reflect actual practice as closely as possible: Becky Barr is accountable as Compliance Officer, but the compliance team includes Kim Dema and Elwood, who periodically review each other's work with a critical eye."},
+        {"type": "sub", "text": "4.5 Trustee Compliance Committee vs. Board Meeting"},
+        {"type": "para", "text": "The Committee agreed it will not move to a separate audit & risk committee structure at this stage. Instead it will be more explicit that the Trustee Compliance Committee is the internal operational meeting (where Investment Manager personnel — principally Kim Dema and Becky Barr — perform administrative work for the Trustee under delegation), distinct from the board meeting (where the board and Trustee directors confirm work has been properly done). Accountability split agreed: Kim Dema prepares the agenda and papers for board meetings; Becky Barr runs the agenda and checks for the Trustee Compliance Committee."},
+        {"type": "resolution", "text": "The Committee adopted the two-hat model for Becky Barr (Fund Operations Manager; Compliance Officer) and the multi-hat clarification for Kim Dema, with job descriptions and titles to make accountabilities explicit while preserving team-based redundancy."}
+      ]
+    },
+    {
+      "heading": "5. Valuation Committee Independence & External Valuation / Audit Costs",
+      "presenter": "Presenter: Stephen Gledden | Time allocated: 10 minutes",
+      "blocks": [
+        {"type": "sub", "text": "5.1 Independent Chair — Danny van Aswegen"},
+        {"type": "para", "text": "The Committee discussed the proposed appointment of Danny van Aswegen (former PwC valuation partner, now of Marketline; recommended by Farrel) as independent chair of the Valuation Committee. He is regarded as aligned with the Committee's \"golden thread\" approach to valuation (≈60% consistency of investment storyline, 40% mechanics) and is familiar with comparable portfolios. His revised proposal: $20k for a review, $50k for a portfolio valuation review, and an as-yet unquoted fee for the independent role (estimated ≈$100k p.a. to do well)."},
+        {"type": "sub", "text": "5.2 Cost Analysis & Potential Duplication"},
+        {"type": "para", "text": "Concerns were raised regarding total governance cost and possible duplication:"},
+        {"type": "bullet", "text": "Current Findex spend ≈ $15k per quarter, increasing (≈$25k budgeted) as scope expands;"},
+        {"type": "bullet", "text": "Proposed EY engagement: ≈$200k audit plus $60–80k for financial statements (noting Straight Bat is a public trading trust already preparing financial statements; conversion to AASB standards estimated at ~3 months);"},
+        {"type": "bullet", "text": "Combined governance costs potentially approaching ~$500k annually;"},
+        {"type": "bullet", "text": "Potential double-up between Danny van Aswegen and Findex — to be resolved. If EY prepare the audit and perform the valuations, the Findex opinion may be unnecessary (potential ~$100k saving)."},
+        {"type": "sub", "text": "5.3 Items to Clarify"},
+        {"type": "bullet", "text": "Whether Danny van Aswegen is a registered valuer (ATO-accepted) — noted as a key question (he is CFA/CA qualified; registration to be confirmed, possibly held at company level);"},
+        {"type": "bullet", "text": "Scope differentiation between providers (valuation vs. review/opinion);"},
+        {"type": "bullet", "text": "Integration with audit requirements (EY as auditor's view to be obtained);"},
+        {"type": "bullet", "text": "Note: Anthony Cohen / Findex referenced; NCF group likely to use Anthony."},
+        {"type": "resolution", "text": "Stephen Gledden to lead engagement with Yash and Kim Dema on valuation provider relationships, scope and budget analysis, to engage with the auditors (EY), and to revert to Danny van Aswegen — with the objective of a clear roadmap and avoiding duplication ahead of Thursday's discussion. No cost commitment to be made until scope and end-goal are confirmed."}
+      ]
+    },
+    {
+      "heading": "6. Conflict Management & Standing Conflicts Register",
+      "presenter": "Presenter: Stephen Gledden / Kim Dema | Time allocated: 10 minutes",
+      "blocks": [
+        {"type": "sub", "text": "6.1 Standing Conflicts"},
+        {"type": "para", "text": "The Committee discussed developing a standing conflicts register for key individuals. Stephen Gledden's conflicts were used as an example (Managing Partner; board member; Trustee NED; Responsible Manager; partner committee; investment committee; valuation committee; remuneration committee). The agreed position: conflicts are recognised and managed by independent challenge from others on the relevant bodies, who recognise the value of that challenge. Stephen Gledden will step off the Valuation Committee and the Trustee board by year-end; succession to be discussed."},
+        {"type": "sub", "text": "6.2 Becky Barr — Structural Conflict"},
+        {"type": "para", "text": "It was noted that, at current scale, a single team delivers compliance across both the Investment Manager and the Trustee. This carries a structural limitation: Becky Barr is employed by the Investment Manager and holds B-class shares in the Manager, which may inhibit independent compliance oversight of the Investment Manager on the Trustee's behalf. The Committee will identify this in the standing conflicts register and discuss at board level; a possible outcome is a change to Becky Barr's short-term incentive remuneration — potentially retaining B-class, or an alternative incentive of equal magnitude but differently structured."},
+        {"type": "sub", "text": "6.3 Conflicts & Related-Party Policies"},
+        {"type": "para", "text": "The Committee agreed to read the Conflicts Policy and the Related-Party Transactions Policy together to ensure familiarity. It was noted these were adapted from Hall & Wilcox templates; a query regarding \"consolidation into a single policy\" was clarified as a branding difference only (no substantive change). Conflicts, standing conflicts and related-party transactions are to be a standard early agenda item for both Holdings and Trustee board meetings."},
+        {"type": "resolution", "text": "Kim Dema to split the standing conflicts out of the existing risk-management dashboard, add the Trustee conflicts, structure by key individual with oversight mapped against each, and prepare a draft for board review."}
+      ]
+    },
+    {
+      "heading": "7. Documentation & Charters Work Plan",
+      "presenter": "Presenter: Stephen Gledden / Kim Dema | Time allocated: 5 minutes (high-level)",
+      "blocks": [
+        {"type": "sub", "text": "7.1 Two Workstreams"},
+        {"type": "para", "text": "The Committee agreed documentation work falls into two parts:"},
+        {"type": "bullet", "text": "Policies — \"weeding the garden\": tightening dates, cross-references and revision dates as part of Becky Barr's annual review. A list of documents requiring formal revision dates may need to be enacted by board minute."},
+        {"type": "bullet", "text": "Charters — standardising committee charters (Investment Committee, Selection Committee, Valuation Committee, etc.), which currently exist in multiple inconsistent formats (one-pagers, PowerPoint, terms of reference). The approach: gather existing documents, identify duplicates/gaps, agree the correct standard format, and prepare a work plan — agreeing structure, language and key points before drafting."},
+        {"type": "sub", "text": "7.2 SharePoint Structure"},
+        {"type": "para", "text": "It was noted the SharePoint restructure is on hold pending a decision to give each committee (Valuation, Board, etc.) its own site with relevant documents. The Committee agreed to review SharePoint together to identify existing charters per committee."}
+      ]
+    },
+    {
+      "heading": "8. Close & Next Meeting",
+      "presenter": "Chair: Stephen Gledden | Time allocated: 5 minutes",
+      "blocks": [
+        {"type": "para", "text": "8.1 Three immediate accountabilities were confirmed for the period to the next meeting (see Action Register), with the broader governance framework sections to be completed when the Committee reconvenes."},
+        {"type": "para", "text": "8.2 With a partner meeting due to commence at 12:00 PM, the Chair proposed reconvening within a couple of days to complete the remaining chapters. Becky Barr to find a suitable time."},
+        {"type": "para", "text": "8.3 There being no further business, the meeting closed at approximately 12:00 PM."}
+      ]
+    }
+  ],
+  "actions": [
+    {"ref": "A1", "action": "Split the standing conflicts out of the risk-management dashboard; add Trustee conflicts; structure by key individual with oversight mapped against each; prepare draft for board review.", "owner": "Kim Dema", "due": "Next Board Mtg"},
+    {"ref": "A2", "action": "Lead the search for an independent NED to the Trustee board (including meetings with Tony McVeigh and Randall this week; follow up Andrew O'Brien re David Nicholl introduction).", "owner": "Rob Nicholls", "due": "Ongoing"},
+    {"ref": "A3", "action": "Lead engagement with Yash and Kim Dema on valuation provider relationships, scope and budget; engage EY (auditors) re duplication; revert to Danny van Aswegen with scope/roadmap. Confirm Danny's registered-valuer (ATO) status.", "owner": "Stephen Gledden", "due": "Before Thu mtg"},
+    {"ref": "A4", "action": "Continue annual review of policies (\"weeding\"), using the governance framework as guidance; do not commence new documents pending agreed structure/language.", "owner": "Becky Barr", "due": "Ongoing"},
+    {"ref": "A5", "action": "Develop a standardised pre-meeting checklist for Trustee board sign-offs (proper instructions, related-party check, executed documentation) and incorporate into the relevant charter.", "owner": "Kim Dema / Stephen Gledden", "due": "Next Meeting"},
+    {"ref": "A6", "action": "Identify Becky Barr's B-class share / remuneration structural conflict in the standing conflicts register for board discussion; consider equal-magnitude alternative incentive structure.", "owner": "Stephen Gledden / Kim Dema", "due": "Next Board Mtg"},
+    {"ref": "A7", "action": "Committee to read the Conflicts Policy and Related-Party Transactions Policy together; confirm conflicts / standing conflicts / related-party transactions as a standing early agenda item.", "owner": "All", "due": "Next Meeting"},
+    {"ref": "A8", "action": "Review SharePoint together to identify existing charters per committee; prepare a charter standardisation work plan (agree format, language and key points before drafting).", "owner": "Stephen Gledden / Kim Dema", "due": "Next Meeting"},
+    {"ref": "A9", "action": "Schedule the follow-up meeting to complete the remaining governance framework sections.", "owner": "Becky Barr", "due": "Immediately"}
+  ],
+  "confirmation": {
+    "statement": "These minutes are a true and accurate record of the Trustee Committee Meeting (Governance Review Implementation Kick-off) of Straight Bat Private Equity Pty Ltd held on 9 June 2026.",
+    "signatories": [
+      {"role": "Chair", "name": "Stephen Gledden", "title": "Responsible Manager"},
+      {"role": "Responsible Manager", "name": "Rob Nicholls", "title": "Responsible Manager (ORM)"}
+    ]
+  },
+  "footnote": "Draft prepared from the Granola meeting transcript (\"Governance Review - implementation kick-off [Matthew MR]\", 9 June 2026). Figures and names captured from discussion and should be verified against source documents prior to sign-off. Square-bracketed items to be completed on finalisation."
+}
